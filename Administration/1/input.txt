@@ -1,0 +1,4 @@
+S.No. WEBSITE       USERNAME          PASSWORD
+
+1.    github.com    someuser          somepass
+2.    google.com    anotheruser       anotherpass
